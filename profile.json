@@ -1,0 +1,1 @@
+[{"name": "profile1", "Parameter": {"Diameter": 30, "Speed": 30, "Lap": 1}}, {"name": "profile2", "Parameter": {"Diameter": 10, "Speed": 10, "Lap": 1}}, {"name": "profile3", "Parameter": {"Diameter": 30, "Speed": 60, "Lap": 10}}, {"name": "profile4", "Parameter": {"Diameter": 30, "Speed": 60, "Lap": 0}}]
